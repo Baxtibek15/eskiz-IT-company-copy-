@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="59" viewBox="0 0 60 59">
+  <g id="server_1_" data-name="server(1)" transform="translate(0 -0.5)">
+    <path id="Path_19" data-name="Path 19" d="M10.5,6.5A4.5,4.5,0,1,0,15,11,4.505,4.505,0,0,0,10.5,6.5Zm0,7A2.5,2.5,0,1,1,13,11,2.5,2.5,0,0,1,10.5,13.5Z" fill="#fff"/>
+    <circle id="Ellipse_46" data-name="Ellipse 46" cx="1" cy="1" r="1" transform="translate(49 8.5)" fill="#fff"/>
+    <circle id="Ellipse_47" data-name="Ellipse 47" cx="1" cy="1" r="1" transform="translate(45 8.5)" fill="#fff"/>
+    <circle id="Ellipse_48" data-name="Ellipse 48" cx="1" cy="1" r="1" transform="translate(51 11.5)" fill="#fff"/>
+    <circle id="Ellipse_49" data-name="Ellipse 49" cx="1" cy="1" r="1" transform="translate(47 11.5)" fill="#fff"/>
+    <circle id="Ellipse_50" data-name="Ellipse 50" cx="1" cy="1" r="1" transform="translate(41 8.5)" fill="#fff"/>
+    <circle id="Ellipse_51" data-name="Ellipse 51" cx="1" cy="1" r="1" transform="translate(43 11.5)" fill="#fff"/>
+    <circle id="Ellipse_52" data-name="Ellipse 52" cx="1" cy="1" r="1" transform="translate(37 8.5)" fill="#fff"/>
+    <circle id="Ellipse_53" data-name="Ellipse 53" cx="1" cy="1" r="1" transform="translate(39 11.5)" fill="#fff"/>
+    <circle id="Ellipse_54" data-name="Ellipse 54" cx="1" cy="1" r="1" transform="translate(33 8.5)" fill="#fff"/>
+    <circle id="Ellipse_55" data-name="Ellipse 55" cx="1" cy="1" r="1" transform="translate(35 11.5)" fill="#fff"/>
+    <path id="Path_20" data-name="Path 20" d="M60,16.892V5.108A4.613,4.613,0,0,0,55.392.5H4.608A4.613,4.613,0,0,0,0,5.108V16.891A4.581,4.581,0,0,0,1.777,20.5,4.586,4.586,0,0,0,0,24.108V35.891A4.581,4.581,0,0,0,1.777,39.5,4.586,4.586,0,0,0,0,43.108V54.891A4.613,4.613,0,0,0,4.608,59.5H55.391A4.613,4.613,0,0,0,60,54.892V43.108A4.581,4.581,0,0,0,58.222,39.5,4.58,4.58,0,0,0,60,35.892V24.108A4.581,4.581,0,0,0,58.223,20.5,4.582,4.582,0,0,0,60,16.892ZM58,43.108V54.891A2.611,2.611,0,0,1,55.392,57.5H4.608A2.61,2.61,0,0,1,2,54.892V43.108A2.611,2.611,0,0,1,4.608,40.5H55.391A2.611,2.611,0,0,1,58,43.108Zm0-19V35.891A2.611,2.611,0,0,1,55.392,38.5H4.608A2.61,2.61,0,0,1,2,35.892V24.108A2.611,2.611,0,0,1,4.608,21.5H55.391A2.611,2.611,0,0,1,58,24.108ZM4.608,19.5A2.611,2.611,0,0,1,2,16.892V5.108A2.611,2.611,0,0,1,4.608,2.5H55.391A2.611,2.611,0,0,1,58,5.108V16.891A2.611,2.611,0,0,1,55.392,19.5H4.608Z" fill="#fff"/>
+    <path id="Path_21" data-name="Path 21" d="M10.5,34.5A4.5,4.5,0,1,0,6,30,4.505,4.505,0,0,0,10.5,34.5Zm0-7A2.5,2.5,0,1,1,8,30,2.5,2.5,0,0,1,10.5,27.5Z" fill="#fff"/>
+    <circle id="Ellipse_56" data-name="Ellipse 56" cx="1" cy="1" r="1" transform="translate(49 27.5)" fill="#fff"/>
+    <circle id="Ellipse_57" data-name="Ellipse 57" cx="1" cy="1" r="1" transform="translate(45 27.5)" fill="#fff"/>
+    <circle id="Ellipse_58" data-name="Ellipse 58" cx="1" cy="1" r="1" transform="translate(51 30.5)" fill="#fff"/>
+    <circle id="Ellipse_59" data-name="Ellipse 59" cx="1" cy="1" r="1" transform="translate(47 30.5)" fill="#fff"/>
+    <circle id="Ellipse_60" data-name="Ellipse 60" cx="1" cy="1" r="1" transform="translate(41 27.5)" fill="#fff"/>
+    <circle id="Ellipse_61" data-name="Ellipse 61" cx="1" cy="1" r="1" transform="translate(43 30.5)" fill="#fff"/>
+    <circle id="Ellipse_62" data-name="Ellipse 62" cx="1" cy="1" r="1" transform="translate(37 27.5)" fill="#fff"/>
+    <circle id="Ellipse_63" data-name="Ellipse 63" cx="1" cy="1" r="1" transform="translate(39 30.5)" fill="#fff"/>
+    <circle id="Ellipse_64" data-name="Ellipse 64" cx="1" cy="1" r="1" transform="translate(33 27.5)" fill="#fff"/>
+    <circle id="Ellipse_65" data-name="Ellipse 65" cx="1" cy="1" r="1" transform="translate(35 30.5)" fill="#fff"/>
+    <path id="Path_22" data-name="Path 22" d="M10.5,53.5A4.5,4.5,0,1,0,6,49,4.505,4.505,0,0,0,10.5,53.5Zm0-7A2.5,2.5,0,1,1,8,49,2.5,2.5,0,0,1,10.5,46.5Z" fill="#fff"/>
+    <circle id="Ellipse_66" data-name="Ellipse 66" cx="1" cy="1" r="1" transform="translate(49 46.5)" fill="#fff"/>
+    <circle id="Ellipse_67" data-name="Ellipse 67" cx="1" cy="1" r="1" transform="translate(45 46.5)" fill="#fff"/>
+    <circle id="Ellipse_68" data-name="Ellipse 68" cx="1" cy="1" r="1" transform="translate(51 49.5)" fill="#fff"/>
+    <circle id="Ellipse_69" data-name="Ellipse 69" cx="1" cy="1" r="1" transform="translate(47 49.5)" fill="#fff"/>
+    <circle id="Ellipse_70" data-name="Ellipse 70" cx="1" cy="1" r="1" transform="translate(41 46.5)" fill="#fff"/>
+    <circle id="Ellipse_71" data-name="Ellipse 71" cx="1" cy="1" r="1" transform="translate(43 49.5)" fill="#fff"/>
+    <circle id="Ellipse_72" data-name="Ellipse 72" cx="1" cy="1" r="1" transform="translate(37 46.5)" fill="#fff"/>
+    <circle id="Ellipse_73" data-name="Ellipse 73" cx="1" cy="1" r="1" transform="translate(39 49.5)" fill="#fff"/>
+    <circle id="Ellipse_74" data-name="Ellipse 74" cx="1" cy="1" r="1" transform="translate(33 46.5)" fill="#fff"/>
+    <circle id="Ellipse_75" data-name="Ellipse 75" cx="1" cy="1" r="1" transform="translate(35 49.5)" fill="#fff"/>
+  </g>
+</svg>
